@@ -78,6 +78,7 @@ $ npm install
 $ npm run dev
 
 # A aplicação será aberta na porta:3333 - acesse http://localhost:3333
+```
 
 ---
 Feito com ❤️ por Higor Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/higorstos/)
