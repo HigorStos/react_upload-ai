@@ -1,7 +1,7 @@
 <h1 align="center">
   upload.ai
-<h1>
-#
+</h1>
+
 Utilizando inteligência artificial para produtividade na criação de conteúdo.
 
 <h2 align="center">
