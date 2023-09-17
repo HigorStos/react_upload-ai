@@ -2,7 +2,9 @@
   upload.ai
 </h1>
 
-Utilizando inteligência artificial para produtividade na criação de conteúdo.
+<p align="center">
+  Utilizando inteligência artificial para produtividade na criação de conteúdo.
+</p>
 
 <h2 align="center">
     <img alt="" title="" src="./.github/preview.png" />
