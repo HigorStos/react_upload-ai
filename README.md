@@ -1,12 +1,15 @@
-# upload.ai
-
 <h1 align="center">
+  upload.ai
+<h1>
+Utilizando inteligência artificial para produtividade na criação de conteúdo.
+
+<h2 align="center">
     <img alt="" title="" src="./.github/preview.png" />
-</h1>
+</h2>
 
 ## 💻 Sobre o projeto
 
-🎬 upload.ai - é ferramenta que utiliza inteligência artificial para criar títulos e descrições para os seus vídeos.
+🎬 upload.ai - é uma ferramenta que utiliza inteligência artificial para criar títulos e descrições para os seus vídeos.
 
 Projeto desenvolvido durante a **NLW IA - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
