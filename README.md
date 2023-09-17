@@ -88,6 +88,7 @@ Feito com ❤️ por Higor Santos 👋🏽 [Entre em contato!](https://www.linke
 [typescript]: https://www.typescriptlang.org/
 [vscode]: https://code.visualstudio.com/
 [rs]: https://rocketseat.com.br
+[tailwind]: https://tailwindcss.com/
 [shadcn]: https://ui.shadcn.com/
 [openai]: https://openai.com/
 [fastify]: https://fastify.dev/
