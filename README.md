@@ -6,9 +6,17 @@
   Utilizando inteligência artificial para produtividade na criação de conteúdo.
 </p>
 
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#executar">Como Executar</a>
+</p>
+
 <h2 align="center">
     <img alt="" title="" src="./.github/preview.png" />
 </h2>
+
+<a id="sobre"></a>
 
 ## 💻 Sobre o projeto
 
@@ -16,6 +24,8 @@
 
 Projeto desenvolvido durante a **NLW IA - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+
+<a id="tecnologias"></a>
 
 ## 🛠 Tecnologias
 
@@ -29,6 +39,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Prisma][prisma]
 - [TailwindCSS][tailwind]
 - [shadcn/ui][shadcn]
+
+<a id="executar"></a>
 
 ## 🚀 Como executar o projeto
 
