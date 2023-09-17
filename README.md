@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Utilizando inteligência artificial para produtividade na criação de conteúdo.
+  Utilizando o poder da inteligência artificial para ter mais produtividade na criação de conteúdo.
 </p>
 
 <p align="center">
