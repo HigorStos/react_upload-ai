@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ upload.ai - é ferramenta que utiliza inteligência artificial para criar títulos e descrições para os seus vídeos.
+🎬 upload.ai - é ferramenta que utiliza inteligência artificial para criar títulos e descrições para os seus vídeos.
 
 Projeto desenvolvido durante a **NLW IA - Next Level Week** oferecida pela [Rocketseat](rs).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
@@ -42,7 +42,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/higorstos/react_upload-ai
+$ git clone --branch api https://github.com/higorstos/react_upload-ai api
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd react_upload-ai
@@ -63,7 +63,7 @@ $ npm run dev
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/higorstos/react_upload-ai
+$ git clone --branch web https://github.com/higorstos/react_upload-ai web
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd react_upload-ai
