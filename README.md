@@ -1,10 +1,10 @@
 <h1 align="center">
   upload.ai
 <h1>
-<p>
-  Utilizando inteligência artificial para produtividade na criação de conteúdo.
-</p>
 
+##
+Utilizando inteligência artificial para produtividade na criação de conteúdo.
+##
 <h2 align="center">
     <img alt="" title="" src="./.github/preview.png" />
 </h2>
